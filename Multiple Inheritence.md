@@ -42,3 +42,5 @@ To write a Python program to calculate **Add, Sub & Division** using **Multiple 
 ## Output Example
 ![image](https://github.com/user-attachments/assets/2125909b-01ca-45eb-9589-e5e4d62a1ba8)
 
+## Result
+Thus, the program to calculate **Add, Sub & Division** using **Multiple Inheritance** is executed and verified successfully.
